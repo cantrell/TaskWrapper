@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <application xmlns="http://ns.adobe.com/air/application/1.5">
-	<id>TaskWrapper</id>
+	<id>com.christiancantrell.taskwrapper</id>
 	<filename>TaskWrapper</filename>
-	<name>Task Wrapper</name>
+	<name>TaskWrapper</name>
 	<version>1</version>
 	<description>Manage Google Tasks on the dekstop.</description>
 
@@ -10,7 +10,7 @@
 
 	<initialWindow>
 		<content>[This value will be overwritten by Flash Builder in the output app.xml]</content>
-		<title>Google Tasks</title>
+		<title>TaskWrapper</title>
 		<!-- <systemChrome></systemChrome> -->
 		<!-- <transparent></transparent> -->
 		<!-- <visible></visible> -->

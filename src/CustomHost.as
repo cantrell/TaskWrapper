@@ -13,8 +13,9 @@ package
 		public override function createWindow(options:HTMLWindowCreateOptions):HTMLLoader
 		{
 			var win:Window = new Window();
-			win.width = 800;
-			win.height = 600;
+			win.width = 450;
+			win.height = 550;
+			win.showStatusBar = false;
 			var browser:Browser = new Browser();
 			browser.percentHeight = 100;
 			browser.percentWidth = 100;
