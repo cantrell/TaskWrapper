@@ -3,7 +3,7 @@
 	<id>com.christiancantrell.taskwrapper</id>
 	<filename>TaskWrapper</filename>
 	<name>TaskWrapper</name>
-	<version>1</version>
+	<version>1.1</version>
 	<description>Manage Google Tasks on the dekstop.</description>
 
 	<copyright>2009 Cantrell Media Company</copyright>
@@ -13,7 +13,7 @@
 		<title>TaskWrapper</title>
 		<!-- <systemChrome></systemChrome> -->
 		<!-- <transparent></transparent> -->
-		<!-- <visible></visible> -->
+		<visible>true</visible>
 		<!-- <minimizable></minimizable> -->
 		<!-- <maximizable></maximizable> -->
 		<!-- <resizable></resizable> -->
